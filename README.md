@@ -5,8 +5,8 @@
 <h2>Технологии</h2>
 <ul>
   <li>Webpack, Babel, SASS-loader</li>
- </ul>
-<h3><TODO:</h3>
+</ul>
+<h3>TODO:</h3>
   <ol>
     <li>Отрефакторить структуру</li>
     <li>Добавить babel-jsx</li>
