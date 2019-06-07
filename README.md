@@ -6,7 +6,7 @@
 <ul>
   <li>Webpack, Babel, SASS-loader</li>
  </ul>
-<h3><TODO:/h3>
+<h3><TODO:</h3>
   <ol>
     <li>Отрефакторить структуру</li>
     <li>Добавить babel-jsx</li>
